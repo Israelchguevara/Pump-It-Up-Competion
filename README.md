@@ -1,9 +1,10 @@
 # Pump-It-Competion
 Este proyecto implementa un pipeline completo de Machine Learning en Python: desde la exploración de datos (EDA) y la limpieza, hasta la ingeniería de variables, entrenamiento de modelos, evaluación con métricas robustas y explicabilidad de resultados.
-Predicción del estado de bombas de agua en Tanzania
+
+# Predicción del estado de bombas de agua en Tanzania
 
 Proyecto de Machine Learning para predecir el estado operativo de puntos de agua (waterpoints) en Tanzania a partir de variables de ubicación, instalación, gestión y características del agua. Los datos provienen de Taarifa y del Ministerio de Agua de Tanzania. 
-DrivenData
+DrivenData, más información https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
 
 🎯 Objetivo
 
